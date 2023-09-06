@@ -31,7 +31,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Arman001/Profile-Card-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://animated-figolla-ed8913.netlify.app/)
 
 ## My process
 
