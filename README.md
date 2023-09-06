@@ -46,7 +46,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### What I learned
 
 - Using two images in background.
-- Adjusting there positions.
+- Adjusting their positions.
 
 ## Author
 
